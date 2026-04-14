@@ -1,0 +1,32 @@
+:root {
+  /* PALETA PRINCIPAL */
+  --bs-primary: #6d28d9;
+  --bs-primary-rgb: 109, 40, 217;
+
+  --bs-success: #10b981;
+  --bs-warning: #f59e0b;
+  --bs-danger: #ef4444;
+
+  /* FONDOS */
+  --bs-body-bg: white;
+  --bs-body-color: black;
+
+  /* COMPONENTES */
+  --bs-border-radius: 12px;
+  --bs-border-radius-sm: 8px;
+  --bs-border-radius-lg: 16px;
+  --bs-link-color: #a78bfa;
+  --bs-link-hover-color: #c4b5fd;
+}
+
+.btn-primary {
+  --bs-btn-bg: #6d28d9;
+  --bs-btn-border-color: #6d28d9;
+  --bs-btn-hover-bg: #5b21b6;
+  --bs-btn-hover-border-color: #5b21b6;
+  --bs-btn-active-bg: #4c1d95;
+  --bs-btn-active-border-color: #4c1d95;
+}
+
+
+

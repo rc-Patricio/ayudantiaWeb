@@ -1,0 +1,15 @@
+button:hover{
+}
+
+.lista-tareas input:checked + .texto {
+    text-decoration: line-through;
+    transition: all 0.3s ease;
+}
+
+#miLista {
+    list-style: none;
+}
+
+#miLista input {
+    display:none;
+}

@@ -8,11 +8,11 @@ nav{
 
 a{
   color:white;
-  text-decoration:none;
+
 }
 
 a:hover{
-    color:rgb(189, 189, 189);
+    color:rgb(143, 143, 143);
 }
 
 @media(max-width:600px){

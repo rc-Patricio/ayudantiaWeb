@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alumnos</title>
+</head>
+<body>
+
+<h1>Listado de Alumnos</h1>
+
+<nav>
+    <a href="/">Inicio</a> |
+    <a href="/nosotros/">Nosotros</a> |
+    <a href="/alumnos/">Alumnos</a>
+</nav>
+
+<hr>
+
+<ul>
+{% for alumno in alumnos %}
+    <li>
+        {{ alumno.nombre }} - {{ alumno.carrera }}
+    </li>
+{% endfor %}
+</ul>
+
+</body>
+</html>

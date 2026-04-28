@@ -12,6 +12,11 @@ input, button{
   margin:8px 0;
 }
 
+input:focus{
+  border-color: red;
+  background-color: rgb(180, 180, 180);
+}
+
 button{
   background:#2563eb;
   color:white;

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "nombre": "Prod1",
+        "precio": 7990,
+        "stock": 5
+    },
+    {
+        "id": 1,
+        "nombre": "Prod2",
+        "precio": 8990,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "nombre": "Prod3",
+        "precio": 2990,
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "nombre": "Prod4",
+        "precio": 4990,
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "nombre": "Prod5",
+        "precio": 1990,
+        "stock": 5
+    },
+    {
+        "id": 5,
+        "nombre": "Prod5",
+        "precio": 2990,
+        "stock": 5
+    }
+]
